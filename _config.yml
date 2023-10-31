@@ -85,8 +85,8 @@ author:
   bio              : "Don't be a salted fish（不要做咸鱼）"
   location         : "Swizterland"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/yunxiang-guo-24452718b/"
   orcid            : "http://orcid.org/yourorcidurl"

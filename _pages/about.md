@@ -1,4 +1,12 @@
-
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 I am a master student (major in AI and minor in Banking and Finance) at [Department of Informatics](https://www.ifi.uzh.ch/en.html) at [University of Zurich](https://www.uzh.ch/en.html). My research interests lie in deep reinforcement learning, deep learning, portfolio management and decentralized finance.
 
 I am supervised by [Prof. Dr. Josef Teichmann](https://people.math.ethz.ch/~jteichma/) (Head of Mathematics Department, ETH Zurich) and [Prof. Dr. Claudio J. Tessone](https://www.blockchain.uzh.ch/members/prof-dr-claudio-j-tessone/) (Chairman, [UZH Blockchain Center](https://www.blockchain.uzh.ch/) , Rank Top 1 in Europe). For my master project, I was supervised by  [Prof. Dr. Claudio J. Tessone](https://www.blockchain.uzh.ch/members/prof-dr-claudio-j-tessone/) and [Prof. Dr. Cheridito, Patrick](https://people.math.ethz.ch/~patrickc/) ([Director of RiskLab Switzerland](https://risklab.ethz.ch/)and [Director of ETH's FinsureTech Hub](https://finsuretech.ethz.ch/)).

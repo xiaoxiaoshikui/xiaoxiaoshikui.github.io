@@ -1,12 +1,3 @@
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I am a master student (major in AI and minor in Banking and Finance) at [Department of Informatics](https://www.ifi.uzh.ch/en.html) at [University of Zurich](https://www.uzh.ch/en.html). My research interests lie in deep reinforcement learning, deep learning, portfolio management and decentralized finance.
 

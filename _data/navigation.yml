@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "create-content&metadata"
+    url: /#create-content--metadata
+
   #- title: "Talks"
   #  url: /talks/    
 

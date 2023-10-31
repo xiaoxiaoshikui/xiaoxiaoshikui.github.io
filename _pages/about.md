@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student (Major in AI and minor in Banking and Finance) at [Department of Informatics]{https://www.ifi.uzh.ch/en.html} at [University of Zurich]{https://www.uzh.ch/en.html}. My research interests lie in deep reinforcement learning, deep learning, portfolio management and decentralized finance. 
+I am a master student (Major in AI and minor in Banking and Finance) at [Department of Informatics](https://www.ifi.uzh.ch/en.html) at [University of Zurich](https://www.uzh.ch/en.html). My research interests lie in deep reinforcement learning, deep learning, portfolio management and decentralized finance.
 
 A data-driven personal website
 ======

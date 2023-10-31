@@ -10,6 +10,8 @@ redirect_from:
 
 I am a master student (major in AI and minor in Banking and Finance) at [Department of Informatics](https://www.ifi.uzh.ch/en.html) at [University of Zurich](https://www.uzh.ch/en.html). My research interests lie in deep reinforcement learning, deep learning, portfolio management and decentralized finance.
 
+I am supervised by [Prof. Dr. Josef Teichmann](https://people.math.ethz.ch/~jteichma/) (Head of Mathematics Department, ETH Zurich) and [Prof. Dr. Claudio J. Tessone](https://www.blockchain.uzh.ch/members/prof-dr-claudio-j-tessone/) (Chairman, UZH Blockchain Center). 
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

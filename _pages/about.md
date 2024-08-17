@@ -15,7 +15,8 @@ Before this, I did double bachelor's degrees in Information Engineering at [Chin
 
 News
 ======
-2024.6- Now: 
+2024.6: My paper is submitted to ICAIF-24
+2024.6- Now: AI Research Visitor at University of Oxford
 2024.3-2024.6: Pamalican Asset Management
 
 Publication

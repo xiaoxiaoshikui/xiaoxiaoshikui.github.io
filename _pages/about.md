@@ -29,6 +29,7 @@ Publication
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Education
+
 **University of Zurich & ETH Zurich (special student)**  
 - **GPA:** Magna Cum Laude (143/120)  
 - **Dates:** February 2021 – Current

@@ -43,9 +43,10 @@ Guo, Y., Yu, W., Chen, Z., & Zou, R. (2020). Impact of high-speed rail on urban 
 
 I am passionate about various sports and love exploring different parts of the world.
 
-| ![Golf](/images/golf.jpg) | ![Fencing](/images/fencing.jpg) | ![Swimming](/images/swimming.jpg) | ![Skiing](/images/skiing.jpg) | ![Surfing](/images/surfing.jpg) |
+| <img src="/images/golf.jpg" alt="Golf" width="150"/> | <img src="/images/fencing.jpg" alt="Fencing" width="150"/> | <img src="/images/swimming.jpg" alt="Swimming" width="150"/> | <img src="/images/skiing.jpg" alt="Skiing" width="150"/> | <img src="/images/surfing.jpg" alt="Surfing" width="150"/> |
 |---------------------------|---------------------------------|-----------------------------------|-------------------------------|--------------------------------|
 | **Golf**                  | **Fencing**                     | **Swimming**                     | **Skiing**                    | **Surfing**                    |
+
 
 ### Contact
 

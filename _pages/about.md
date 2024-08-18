@@ -17,7 +17,7 @@ News
 ======
 - **August 2024:** My paper is submitted to ICAIF-24.
 - **June 2024 - Present:** AI Research Visitor at the University of Oxford.
-- **March 2024 - June 2024:** Pamalican Asset Management.
+- **March 2024 - June 2024:** Junior AI Researcher at Pamalican Asset Management (500M USD, one of the biggest new fund at Asia).
 
 Publication
 ======

@@ -43,10 +43,12 @@ I enjoy doing many sports and explore different places of the world.
 
 | Sport      | Image                                                  |
 |------------|--------------------------------------------------------|
-| Golf       | ![Golf](/images/golf.jpg)                              |
+| Golf       | ![Golf](/images/golf.jpg)![Golf2](/images/golf2.jpg)                               |
 | Fencing    | ![Fencing](/images/fencing.jpg)                        |
 | Swimming   | ![Swimming](/images/swimming.jpg)                      |
-| Tango      | ![Tango](/images/tango.jpg)                            |
+| Skiing     | ![Skiing](/images/skiing.jpg)                          |
+| Surfing     | ![Skiing](/images/surfing.jpg)                        |
+
 
 
 For more info

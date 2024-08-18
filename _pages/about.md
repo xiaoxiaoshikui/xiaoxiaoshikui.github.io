@@ -21,7 +21,7 @@ News
 
 Publication
 ======
-My first paper came from my bachelor thesises.
+My first paper came from my bachelor thesis
 
 Education
 ======

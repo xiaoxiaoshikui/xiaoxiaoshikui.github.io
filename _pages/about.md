@@ -11,7 +11,7 @@ My research interests lie in deep reinforcement learning, deep learning, portfol
 
 My master thesis was supervised together by [Prof. Dr. Josef Teichmann](https://people.math.ethz.ch/~jteichma/) (Head of Mathematics Department, ETH Zurich) and [Prof. Dr. Claudio J. Tessone](https://www.blockchain.uzh.ch/members/prof-dr-claudio-j-tessone/) (Chairman, [UZH Blockchain Center](https://www.blockchain.uzh.ch/) , Rank Top 1 in Europe). For my master project, I was supervised by  [Prof. Dr. Claudio J. Tessone](https://www.blockchain.uzh.ch/members/prof-dr-claudio-j-tessone/) and [Prof. Dr. Cheridito, Patrick](https://people.math.ethz.ch/~patrickc/) ([Director of RiskLab Switzerland](https://risklab.ethz.ch/)and [Director of ETH's FinsureTech Hub](https://finsuretech.ethz.ch/)).
 
-Before this, I did double bachelor's degrees in Information Engineering at [China University of Geosciences (Wuhan) (CUG)](https://en.cug.edu.cn/) and Business Administration at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/). I was supervised by [Prof. Dr. Wenhao Yu](https://grzy.cug.edu.cn/yuwenhao/en/index.htm)(Head of Department of Space Information) at CUG. For my second degree in BA, my supervisor is [Prof. Dr. Yingjun Zhu](http://english.cm.hust.edu.cn/info/1094/1299.htm) at HUST.
+Before this, I did double bachelor's degrees in Information Engineering at [China University of Geosciences (Wuhan) (CUG)](https://en.cug.edu.cn/) and Business Administration at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/), seperately. I was supervised by [Prof. Dr. Wenhao Yu](https://grzy.cug.edu.cn/yuwenhao/en/index.htm)(Head of Department of Space Information) at CUG. For my second degree in BA, my supervisor is [Prof. Dr. Yingjun Zhu](http://english.cm.hust.edu.cn/info/1094/1299.htm) at HUST.
 
 News
 ======
@@ -21,7 +21,8 @@ News
 
 Publication
 ======
-My first paper came from my bachelor thesis
+Guo, Y., Yu, W., Chen, Z., & Zou, R. (2020). Impact of high-speed rail on urban economic development: An observation from the Beijing-Guangzhou line based on night-time light images. Socio-economic planning sciences, 72, 100905. [Link text](https://doi.org/10.1016/j.seps.2020.100905)
+
 
 Education
 ======
@@ -40,9 +41,14 @@ Sports
 ------
 I enjoy doing many sports and explore different places of the world.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+| Sport      | Image                                                  |
+|------------|--------------------------------------------------------|
+| Golf       | ![Golf](/images/golf.png)                              |
+| Fencing    | ![Fencing](/images/fencing.png)                        |
+| Swimming   | ![Swimming](/images/swimming.png)                      |
+| Tango      | ![Tango](/images/tango.png)                            |
+
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+If you have any further questions, please send me an email (yunxiang.guo@uzh.ch or guo_yx@outlook.com)

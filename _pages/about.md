@@ -48,6 +48,10 @@ I am passionate about various sports and love exploring different parts of the w
 | **Golf**                  | **Fencing**                     | **Swimming**                     | **Skiing**                    | **Surfing**                    |
 
 
+| <img src="/images/beijing.jpg" alt="Beijing" width="150"/> | <img src="/images/vienna.jpg" alt="Vienna" width="150"/> | <img src="/images/oxford.jpg" alt="Oxford" width="150"/> | <img src="/images/rome.jpg" alt="Rome" width="150"/> | <img src="/images/zurich.jpg" alt="Zurich" width="150"/> |
+|---------------------------|---------------------------------|-----------------------------------|-------------------------------|--------------------------------|
+| **Beijing**               | **Vienna**                      | **Oxford**                       | **Rome**                      | **Zurich**                    |
+
 ### Contact
 
 For more information or inquiries, feel free to reach out via email at yunxiang.guo@uzh.ch or guo_yx@outlook.com.

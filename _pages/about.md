@@ -17,8 +17,9 @@ My Master’s thesis was co-supervised by [Prof. Dr. Josef Teichmann](https://pe
 Prior to this, I completed double Bachelor's degrees: one in Information Engineering at the [China University of Geosciences (Wuhan) (CUG)](https://en.cug.edu.cn/) and the other in Business Administration at the [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/). At CUG, I was supervised by [Prof. Dr. Wenhao Yu](https://grzy.cug.edu.cn/yuwenhao/en/index.htm) (Head of the Department of Space Information). My second degree at HUST was supervised by [Prof. Dr. Yingjun Zhu](http://english.cm.hust.edu.cn/info/1094/1299.htm).
 
 ### News
-
-- **June 2024 - Present:** AI Research Visitor at the University of Oxford.
+- **Nov 2024 - May 2025:** I would start an at the United Nations.
+- **Oct 2024:** My paper is submitted to AAMAS.
+- **June 2024 - Sep 2024:** AI Student Visitor at the University of Oxford.
 - **March 2024 - June 2024:** Junior AI Researcher at Pamalican Asset Management (500M USD, one of the largest new funds in Asia).
 
 ### Publication

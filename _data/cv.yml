@@ -1,0 +1,148 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yunxiang Guo
+    - name: Location
+      value: Geneva, Switzerland
+    - name: Languages
+      value: Chinese (native), English (professional), French (intermediate), German (intermediate)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master Exchange Student
+      institution: ETH Zurich, Switzerland
+      year: 2023 - 2024
+      description:
+        - "Thesis (5.75/6): Revolutionizing Financial Decision-Making via AI: Reinforcement Learning-Driven Portfolio Optimization and Anomaly Detection in Modern Markets, supervised by Prof. Dr. Claudio J. Tessone and Prof. Dr. Josef Teichmann."
+        - "Relevant modules: Mathematics for New Technologies in Finance, Optimization for Data Science."
+    - title: M.S. in Informatics — Magna Cum Laude (5/6)
+      institution: University of Zurich, Switzerland
+      year: 2021 - 2024
+      description:
+        - "Major: Artificial Intelligence; Minor: Banking and Finance."
+        - "Relevant modules: Deep Learning, Blockchains, Reinforcement Learning, Machine Learning, Advanced Topics in Artificial Intelligence, Quantitative Finance."
+    - title: B.Mgmt. in Business Administration (Double Degree) — GPA 3.94/4.00
+      institution: Huazhong University of Science and Technology, China
+      year: 2017 - 2020
+      description:
+        - Ranked 2nd out of 81 students.
+    - title: B.Eng. in Information Engineering — Graduated with Honours (81.3/100)
+      institution: China University of Geosciences, China
+      year: 2016 - 2020
+
+- title: Research & Work Experience
+  type: time_table
+  contents:
+    - title: AI Intern
+      institution: World Trade Organization, Integrated Database Unit, Economic Research and Statistics Division, Switzerland
+      year: May 2026 - Present
+      description:
+        - Develop Python-based AI/ML data pipelines with LLM-assisted automation, data preparation, validation, testing, and documentation to support reliable AI application workflows.
+        - Contribute to responsible AI solution design — schema intelligence, anomaly detection, prompt/model validation, and human-in-the-loop review for complex multilingual datasets.
+    - title: "Junior Artificial Intelligence Officer (newly established role)"
+      institution: International Labour Organization (ILO), The United Nations, Switzerland
+      year: Jan 2025 - Dec 2025
+      description:
+        - Led technical development of LLM multi-agent data search (LangChain, LangGraph) and RAG-based AI architecture for Labor Market Information Systems (LMIS) and SDMX.
+        - Assisted in refining ISCO 2028 auto-coding and identifying emerging trends in job market regulations.
+        - Supervised by Dr. Shutong Ding and Mr. Greising Edgardo; developed an AI handbook for the Department of Statistics; contributed to the 113th International Labour Conference (2025) and the Generative AI Workshop at UNECE (2025).
+    - title: Visiting Researcher, Artificial Intelligence and Machine Learning Group
+      institution: University of Oxford, UK
+      year: Jun 2024 - Dec 2024
+      description:
+        - Conducted research under Prof. Dr. Jiarui Gan on multi-agent reinforcement learning and game theory, with applications to financial markets.
+        - "Developed \"dynamic-risk-drl\", a deep RL agent using adaptive, CVaR-based risk aversion policies to handle market volatility."
+    - title: AI Researcher in Portfolio Management
+      institution: Pamalican Asset Management Limited (500M USD new fund), Hong Kong, China
+      year: Jan 2024 - Jun 2024
+      description:
+        - Developed a risk-averse reinforcement learning trading strategy across major Asian equity markets (Japan, Hong Kong, Australia, Singapore).
+        - Mentored by Mr. Jamie Goodman (CEO); achieved 40-60% annual backtested returns while keeping portfolio risk below 10%.
+    - title: Research Team Lead (team of 4) / AI Researcher
+      institution: ETH Zurich AI Center, Switzerland
+      year: Feb 2023 - Jun 2023
+      description:
+        - Combined numerical rewards with human preference feedback to iteratively refine the reward model in RL tasks, supervised by Prof. Dr. Mennatallah El-Assady and Prof. Dr. Giorgia Ramponi.
+        - Showed that human preference feedback improves standard RL algorithms (SAC, PPO); presented a poster at the AI Center Projects in Machine Learning Research 2023.
+    - title: Project Lead (team of 2) & Researcher, Risk Modeling / Deep RL
+      institution: UZH Blockchain Center, Switzerland
+      year: Feb 2022 - Feb 2023
+      description:
+        - Built a risk-aware deep RL framework for statistical arbitrage integrating time-consistent dynamic risk measures (DCVaR/CVaR) into value estimation and training.
+        - "Implemented a transaction-level actor-critic pipeline with soft-updated target networks; validated on OU stochastic processes (project grade: 5/6)."
+    - title: Research Project Lead (team of 2)
+      institution: China National Engineering Research Center for Geographic Information System, China
+      year: Sep 2017 - Jul 2020
+      description:
+        - Led the College Students' Innovative Entrepreneurial Training Plan Program under Prof. Dr. Yu Wenhao, evaluating the long-term economic impact of the Beijing-Guangzhou High-Speed Railway using night-time light (NTL) data.
+        - "Found the railway boosted growth in first-tier and new-first-tier cities while negatively affecting some second- and third-tier cities; published in Socio-Economic Planning Sciences."
+
+- title: Talks & Presentations
+  type: time_table
+  contents:
+    - title: "Roundtable: The Role of Agentic AI in the Public Sector"
+      institution: AI House Davos (World Economic Forum week), Switzerland
+      year: Jan 2026
+      description:
+        - Discussed current practices and emerging approaches to deploying AI agents responsibly in government and international-organization settings. Discussion led by Dr. Frauke Goll.
+    - title: "Combining Numerical Rewards with Human Preferences for Reinforcement Learning Alignment (Poster)"
+      institution: AI Center Projects in Machine Learning Research 2023, ETH Zurich AI Center
+      year: Jun 2023
+
+- title: Academic Activities
+  type: time_table
+  contents:
+    - title: Participant, Cross-cultural Engineering Project (CEP)
+      institution: Shibaura Institute of Technology, Japan
+      year: Dec 2019
+      description:
+        - Resort revenue optimisation for Nasu and visual programming for KODENSHA; increased tourist volume by 11% and reduced Nasu's annual budget by ~300K.
+    - title: Summer Institute
+      institution: University of Cambridge & Oxford, England
+      year: Jul 2019 - Aug 2019
+      description:
+        - "Relevant modules: Strategic Management and Investment Analysis, Artificial Intelligence and Numerical Computing."
+
+- title: Service and Leadership
+  type: time_table
+  contents:
+    - title: Co-President, Intern Board (54 interns)
+      institution: International Labour Organization, The United Nations, Switzerland
+      year: Jan 2025 - Jun 2025
+      description:
+        - Oversaw the Intern Board's activities, resolutions, and meetings; represented the board in communications with HRD, the Staff Union, and partner organizations including WTO and ITU.
+    - title: "Winner, BCOLN Challenge Task Award 2023"
+      institution: Switzerland
+      year: Jun 2023
+      description:
+        - "1st place (of 36) for \"Lottery dApp\", a distributed cryptocurrency roulette application."
+    - title: Ambassador for Privacy & Measurement, Google Marketing Live 2022
+      institution: Switzerland
+      year: May 2022
+      description:
+        - Built neural network prediction models for cookieless, privacy-focused ad delivery; supported clients including BMW, UBS, and HSBC.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - BCOLN Challenge Task Award — Best Distributed Application (dApp) Implementation
+    - year: 2016 - 2020
+      items:
+        - Chinese National Grants
+        - Weizhi Co., Ltd. Scholarship
+        - Academician Scholarship, China University of Geosciences
+        - Shibaura Institute of Technology (SIT) Scholarship
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Technical
+      items:
+        - Python, C++, R, C#, SQL, PyTorch, LaTeX, Docker, Git
+    - title: Focus Areas
+      items:
+        - AI agent safety and alignment, reinforcement learning, LLM multi-agent systems, responsible AI / human-in-the-loop design, quantitative finance

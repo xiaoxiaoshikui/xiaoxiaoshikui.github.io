@@ -6,7 +6,7 @@ subtitle: AI Intern, <a href='https://www.wto.org/' target='_blank'>World Trade 
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>AI agent safety &amp; applied ML</p>

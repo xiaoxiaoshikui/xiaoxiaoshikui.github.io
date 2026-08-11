@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yunxiang Guo"
   avatar           : "profile.png"
-  bio              : "Don't be a salted fish（不要做咸鱼）"
-  location         : "Switzerland"
-  employer         :
+  bio              : "AI Agent Safety & Applied ML — building AI systems that are capable, auditable, and trustworthy."
+  location         : "Geneva, Switzerland"
+  employer         : "World Trade Organization"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "guo_yx@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

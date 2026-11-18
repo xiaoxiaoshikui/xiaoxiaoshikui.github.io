@@ -9,7 +9,7 @@ last_name: Guo
 contact_note: >
   Email is the most reliable way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  AI agent safety &amp; applied machine learning. AI Intern at the World Trade Organization; formerly Junior AI Officer at the ILO (United Nations).
+  AI agent safety &amp; applied machine learning. AI Scientist at UN Trade and Development (UNCTAD); formerly at the World Trade Organization and the ILO (United Nations).
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

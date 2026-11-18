@@ -35,9 +35,15 @@
 - title: Research & Work Experience
   type: time_table
   contents:
-    - title: AI Intern
+    - title: AI Scientist (Consultant), CSTD Secretariat
+      institution: UN Trade and Development (UNCTAD), Technology, Innovation and Knowledge Development Branch, Switzerland
+      year: Oct 2026 - Present
+      description:
+        - Updating the Frontier Technology Readiness Index to incorporate AI, as input to the UN Secretary-General's report for the 30th session of the CSTD.
+        - Supporting the progress report of the CSTD Working Group on Data Governance to the UN General Assembly.
+    - title: AI Scientist Intern
       institution: World Trade Organization, Integrated Database Unit, Economic Research and Statistics Division, Switzerland
-      year: May 2026 - Present
+      year: May 2026 - Oct 2026
       description:
         - Develop Python-based AI/ML data pipelines with LLM-assisted automation, data preparation, validation, testing, and documentation to support reliable AI application workflows.
         - Contribute to responsible AI solution design — schema intelligence, anomaly detection, prompt/model validation, and human-in-the-loop review for complex multilingual datasets.

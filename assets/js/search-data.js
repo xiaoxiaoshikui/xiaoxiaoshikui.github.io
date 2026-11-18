@@ -67,6 +67,12 @@ ninja.data = [{
           section: "News",},{id: "news-started-as-ai-intern-at-the-world-trade-organization-integrated-database-unit-economic-research-and-statistics-division-building-llm-assisted-data-pipelines-and-responsible-ai-solutions-for-multilingual-official-statistics",
           title: 'Started as AI Intern at the World Trade Organization (Integrated Database Unit, Economic...',
           description: "",
+          section: "News",},{id: "news-joined-un-trade-and-development-unctad-as-ai-scientist-in-the-secretariat-of-the-commission-on-science-and-technology-for-development-cstd-working-on-the-frontier-technology-readiness-index-and-ai",
+          title: 'Joined UN Trade and Development (UNCTAD) as AI Scientist in the secretariat of...',
+          description: "",
+          section: "News",},{id: "news-published-who-is-missing-from-creative-economy-statistics-an-interactive-dashboard-on-world-trade-in-creative-goods-unctadstat-2002-2024-the-data-gaps-for-least-developed-and-small-island-economies-and-how-hs-revisions-change-the-creative-goods-definition-code-and-data",
+          title: 'Published Who is missing from creative economy statistics?, an interactive dashboard on world...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
